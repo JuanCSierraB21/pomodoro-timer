@@ -88,6 +88,4 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 5. Haz push a la rama (`git push origin feature/amazing-feature`)
 6. Abre un Pull Request
 
-## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
